@@ -1,0 +1,44 @@
+body {
+  font-family: Georgia;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.first {
+  background-color: #66ff33;
+}
+
+.main-title {
+  text-align: center;
+  text-shadow: 4px -4px 5px blue;
+}
+
+.city {
+  color: blue;
+  font-family: Tahoma;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.people {
+  background-color: #ffff33;
+}
+
+.areas {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.streets {
+  text-align: center;
+  border: 3px dotted red;
+  font-style: italic;
+  font-size: 25px;
+}
+
+.school {
+  text-align: right;
+}
